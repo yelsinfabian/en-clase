@@ -9,3 +9,9 @@ Autor
 notas De la Version
 ---------------------
     *Cambios que no son Seguron
+
+Creditos:
+---------
+    *Rosa Maria Palacios
+    * barata
+
